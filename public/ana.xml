@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd"
+     xmlns:mlb="http://mlb.mlb.com/rss/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     version="2.0">
+   <channel>
+      <title>ANA Homepage News</title>
+      <link>http://mlb.mlb.com</link>
+      <description>ANA Homepage News</description>
+      <lastBuildDate>Fri, 26 Sep 2014 19:32:25 EDT
+	</lastBuildDate>
+      <item>
+         <title>Tickets for potential ALCS games go on sale Oct. 1</title>
+         <link>http://mlb.mlb.com/news/article/ana/tickets-for-potential-angels-alcs-games-go-on-sale-oct-1?ymd=20140926&amp;content_id=96509852&amp;vkey=news_ana</link>
+         <pubDate>Fri, 26 Sep 2014 15:00:07 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/tickets-for-potential-angels-alcs-games-go-on-sale-oct-1?ymd=20140926&amp;content_id=96509852&amp;vkey=news_ana</guid>
+         <description>Tickets for a potential American League Championship Series at Angel Stadium will go on sale Wednesday, Oct. 1, beginning at 10 a.m. PT, the team announced Friday.</description>
+         <content:encoded><![CDATA[Tickets for a potential American League Championship Series at Angel Stadium will go on sale Wednesday, Oct. 1, beginning at 10 a.m. PT, the team announced Friday.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:display-date>9/26/2014 3:00 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411758007</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>As playoffs near, Trout not changing his game</title>
+         <link>http://mlb.mlb.com/news/article/ana/as-playoffs-near-mike-trout-not-changing-his-game?ymd=20140925&amp;content_id=96361504&amp;vkey=news_ana</link>
+         <pubDate>Thu, 25 Sep 2014 17:56:33 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/as-playoffs-near-mike-trout-not-changing-his-game?ymd=20140925&amp;content_id=96361504&amp;vkey=news_ana</guid>
+         <description>Some would argue that this has been Mike Trout's worst season, but few would say he isn't the AL MVP -- and that's about as indicative of his success as there is.</description>
+         <content:encoded><![CDATA[Some would argue that this has been Mike Trout's worst season, but few would say he isn't the AL MVP -- and that's about as indicative of his success as there is.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/25/2014 4:05 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411675529</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Angels, Orioles looking great for different reasons</title>
+         <link>http://mlb.mlb.com/news/article/ana/hal-bodley-angels-orioles-looking-great-for-different-reasons?ymd=20140925&amp;content_id=96353240&amp;vkey=news_ana</link>
+         <pubDate>Thu, 25 Sep 2014 14:08:00 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/hal-bodley-angels-orioles-looking-great-for-different-reasons?ymd=20140925&amp;content_id=96353240&amp;vkey=news_ana</guid>
+         <description>It seems utterly foolish, if not stupid, to pick against the Angels as baseball's postseason is poised for its unpredictable October run. But the Orioles have been playing like a team of destiny.</description>
+         <content:encoded><![CDATA[It seems utterly foolish, if not stupid, to pick against the Angels as baseball's postseason is poised for its unpredictable October run. But the Orioles have been playing like a team of destiny.]]></content:encoded>
+         <dc:creator>Hal Bodley</dc:creator>
+         <mlb:team id="110" teamcode="bal"/>
+         <mlb:display-date>9/25/2014 2:08 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411668480</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Weaver, Angels aim to clinch AL's top seed facing Mariners</title>
+         <link>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_26_anamlb_seamlb_1&amp;mode=preview&amp;vkey=preview_web_away&amp;c_id=ana</link>
+         <pubDate>Thu, 25 Sep 2014 23:07:07 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_26_anamlb_seamlb_1&amp;mode=preview&amp;vkey=preview_web_away&amp;c_id=ana</guid>
+         <description>With three games left in the regular season, it's still mathematically possible for the Mariners to reach the playoffs, but they have barely any margin for error as they begin a three-game series Friday against the Angels at Safeco Field. Hisashi Iwakuma starts for the Mariners, while Jered Weaver takes the ball for the Angels, who can clinch home field throughout the postseason with a win.</description>
+         <content:encoded><![CDATA[With three games left in the regular season, it's still mathematically possible for the Mariners to reach the playoffs, but they have barely any margin for error as they begin a three-game series Friday against the Angels at Safeco Field. Hisashi Iwakuma starts for the Mariners, while Jered Weaver takes the ball for the Angels, who can clinch home field throughout the postseason with a win.]]></content:encoded>
+         <dc:creator>Matthew DeFranks</dc:creator>
+         <mlb:team id="136" teamcode="ana"/>
+         <mlb:display-date>9/24/2014 7:55 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411602950</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Angels' magic number at 2 for AL's top seed</title>
+         <link>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_24_anamlb_oakmlb_1&amp;mode=recap_away&amp;c_id=ana</link>
+         <pubDate>Wed, 24 Sep 2014 21:38:04 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_24_anamlb_oakmlb_1&amp;mode=recap_away&amp;c_id=ana</guid>
+         <description>Hector Santiago bounced back with a scoreless outing, Howie Kendrick continued to produce from the cleanup spot and the Angels held on to beat the A's, 5-4, on Wednesday afternoon, taking two of three at O.co Coliseum. With the win, the Angels maintained a 2 1/2-game lead on the Orioles for the best record in the Majors and trimmed their magic number to lock up home-field advantage throughout the postseason to 2.</description>
+         <content:encoded><![CDATA[Hector Santiago bounced back with a scoreless outing, Howie Kendrick continued to produce from the cleanup spot and the Angels held on to beat the A's, 5-4, on Wednesday afternoon, taking two of three at O.co Coliseum. With the win, the Angels maintained a 2 1/2-game lead on the Orioles for the best record in the Majors and trimmed their magic number to lock up home-field advantage throughout the postseason to 2.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/24/2014 7:05 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411599931</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Trout exits finale vs. A's with stomach illness</title>
+         <link>http://mlb.mlb.com/news/article/ana/mike-trout-exits-finale-against-as-with-stomach-illness?ymd=20140924&amp;content_id=96221212&amp;vkey=news_ana</link>
+         <pubDate>Wed, 24 Sep 2014 21:25:00 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/mike-trout-exits-finale-against-as-with-stomach-illness?ymd=20140924&amp;content_id=96221212&amp;vkey=news_ana</guid>
+         <description>Mike Trout exited Wednesday's 5-4 win over the A's after four innings, but it wasn't because of an injury -- the Angels' superstar center fielder merely had a stomach illness.</description>
+         <content:encoded><![CDATA[Mike Trout exited Wednesday's 5-4 win over the A's after four innings, but it wasn't because of an injury -- the Angels' superstar center fielder merely had a stomach illness.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/24/2014 5:47 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411595241</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Out call at plate on Donaldson stands in fourth</title>
+         <link>http://mlb.mlb.com/news/article/ana/out-call-at-home-plate-on-as-josh-donaldson-stands-in-fourth?ymd=20140924&amp;content_id=96219848&amp;vkey=news_ana</link>
+         <pubDate>Wed, 24 Sep 2014 20:47:43 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/out-call-at-home-plate-on-as-josh-donaldson-stands-in-fourth?ymd=20140924&amp;content_id=96219848&amp;vkey=news_ana</guid>
+         <description>Oakland third baseman Josh Donaldson made a nifty move at home plate to try to score from third base on a Derek Norris fly ball in the fourth inning of the Angels' 5-4 win over the A's on Wednesday, but a crew chief review confirmed the original call: out. The review was based on Rule 7.13, which defines how a catcher is allowed to position himself on a play at the plate.</description>
+         <content:encoded><![CDATA[Oakland third baseman Josh Donaldson made a nifty move at home plate to try to score from third base on a Derek Norris fly ball in the fourth inning of the Angels' 5-4 win over the A's on Wednesday, but a crew chief review confirmed the original call: out. The review was based on Rule 7.13, which defines how a catcher is allowed to position himself on a play at the plate.]]></content:encoded>
+         <dc:creator>Aaron Leibowitz</dc:creator>
+         <mlb:team id="133" teamcode="oak"/>
+         <mlb:display-date>9/24/2014 5:37 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411594629</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Hamilton plans to be ready to play in ALDS</title>
+         <link>http://mlb.mlb.com/news/article/ana/angels-josh-hamilton-plans-to-be-ready-to-play-in-al-division-series?ymd=20140924&amp;content_id=96214418&amp;vkey=news_ana</link>
+         <pubDate>Wed, 24 Sep 2014 20:26:47 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/angels-josh-hamilton-plans-to-be-ready-to-play-in-al-division-series?ymd=20140924&amp;content_id=96214418&amp;vkey=news_ana</guid>
+         <description>Josh Hamilton has no doubts about being able to play in next week's American League Division Series, but the Angels' outfielder is leaning toward not playing in the season-ending series in Seattle this weekend to avoid a setback and get some extra rest for the postseason.</description>
+         <content:encoded><![CDATA[Josh Hamilton has no doubts about being able to play in next week's American League Division Series, but the Angels' outfielder is leaning toward not playing in the season-ending series in Seattle this weekend to avoid a setback and get some extra rest for the postseason.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/24/2014 5:01 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411592506</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Angels' much-improved defense key to success</title>
+         <link>http://mlb.mlb.com/news/article/ana/angels-much-improved-defense-key-to-success?ymd=20140924&amp;content_id=96210870&amp;vkey=news_ana</link>
+         <pubDate>Wed, 24 Sep 2014 16:36:06 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/angels-much-improved-defense-key-to-success?ymd=20140924&amp;content_id=96210870&amp;vkey=news_ana</guid>
+         <description>The Angels entered their fourth-to-last regular-season game Wednesday with 19 more wins than they had all of last year. And though a deeper bullpen, a dangerous offense and some unexpected starting-pitching contributions have had a lot to do with that, one aspect that shouldn't go overlooked in all of this is defense.</description>
+         <content:encoded><![CDATA[The Angels entered their fourth-to-last regular-season game Wednesday with 19 more wins than they had all of last year. And though a deeper bullpen, a dangerous offense and some unexpected starting-pitching contributions have had a lot to do with that, one aspect that shouldn't go overlooked in all of this is defense.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/24/2014 4:36 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411590969</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>On 40th birthday, McDonald proud of his longevity</title>
+         <link>http://mlb.mlb.com/news/article/ana/on-40th-birthday-angels-utility-man-john-mcdonald-proud-of-his-longevity?ymd=20140924&amp;content_id=96204418&amp;vkey=news_ana</link>
+         <pubDate>Wed, 24 Sep 2014 16:09:01 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/on-40th-birthday-angels-utility-man-john-mcdonald-proud-of-his-longevity?ymd=20140924&amp;content_id=96204418&amp;vkey=news_ana</guid>
+         <description>Angels utility infielder John McDonald is in the final stages of his career now, regardless of whether this ends up being his final season. He turned 40 years old on Wednesday, attaining uncommon longevity without ever possessing dynamic tools.</description>
+         <content:encoded><![CDATA[Angels utility infielder John McDonald is in the final stages of his career now, regardless of whether this ends up being his final season. He turned 40 years old on Wednesday, attaining uncommon longevity without ever possessing dynamic tools.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/24/2014 4:08 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411589338</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Angels put 'it factor' on display in win over A's</title>
+         <link>http://mlb.mlb.com/news/article/ana/lyle-spencer-angels-put-it-factor-on-display-in-win-over-as?ymd=20140924&amp;content_id=96152294&amp;vkey=news_ana</link>
+         <pubDate>Wed, 24 Sep 2014 03:14:30 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/lyle-spencer-angels-put-it-factor-on-display-in-win-over-as?ymd=20140924&amp;content_id=96152294&amp;vkey=news_ana</guid>
+         <description>With Tuesday night's 2-0 victory over the A's and a dominant Sonny Gray, the Angels provided a perfect example of why they have the best record in baseball -- because they know how to find a way to win.</description>
+         <content:encoded><![CDATA[With Tuesday night's 2-0 victory over the A's and a dominant Sonny Gray, the Angels provided a perfect example of why they have the best record in baseball -- because they know how to find a way to win.]]></content:encoded>
+         <dc:creator>Lyle Spencer</dc:creator>
+         <mlb:team id="133" teamcode="ana"/>
+         <mlb:display-date>9/24/2014 2:19 A.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411539540</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>LeBlanc's gem sends Angels closer to AL's top seed</title>
+         <link>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_23_anamlb_oakmlb_1&amp;mode=recap_away&amp;c_id=ana</link>
+         <pubDate>Wed, 24 Sep 2014 02:49:09 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_23_anamlb_oakmlb_1&amp;mode=recap_away&amp;c_id=ana</guid>
+         <description>Five days after blanking the Mariners through 5 1/3 innings, Wade LeBlanc did the same to the A's at O.co Coliseum on Tuesday night, leading the Angels to a 2-0 victory and putting himself in the mix for a spot on Mike Scioscia's playoff roster.</description>
+         <content:encoded><![CDATA[Five days after blanking the Mariners through 5 1/3 innings, Wade LeBlanc did the same to the A's at O.co Coliseum on Tuesday night, leading the Angels to a 2-0 victory and putting himself in the mix for a spot on Mike Scioscia's playoff roster.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/24/2014 1:12 A.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411535530</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Angels may give Rasmus a shot at 2015 rotation</title>
+         <link>http://mlb.mlb.com/news/article/ana/angels-may-give-cory-rasmus-a-shot-at-2015-rotation?ymd=20140923&amp;content_id=96060774&amp;vkey=news_ana</link>
+         <pubDate>Tue, 23 Sep 2014 23:02:26 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/angels-may-give-cory-rasmus-a-shot-at-2015-rotation?ymd=20140923&amp;content_id=96060774&amp;vkey=news_ana</guid>
+         <description>Injuries early in Cory Rasmus' career prompted a move from starting to the bullpen, but the Angels' 26-year-old right-hander may get a chance to earn a spot in the rotation next season.</description>
+         <content:encoded><![CDATA[Injuries early in Cory Rasmus' career prompted a move from starting to the bullpen, but the Angels' 26-year-old right-hander may get a chance to earn a spot in the rotation next season.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/23/2014 11:02 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411527744</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Trout meets Griffey to tape FOX Sports 1 show</title>
+         <link>http://mlb.mlb.com/news/article/ana/mike-trout-meets-ken-griffey-jr-to-tape-fox-sports-1-show?ymd=20140923&amp;content_id=96102592&amp;vkey=news_ana</link>
+         <pubDate>Tue, 23 Sep 2014 22:24:44 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/mike-trout-meets-ken-griffey-jr-to-tape-fox-sports-1-show?ymd=20140923&amp;content_id=96102592&amp;vkey=news_ana</guid>
+         <description>Mike Trout and Ken Griffey Jr. sat down for about a half hour at one of the family rooms at O.co Coliseum on Tuesday, reviewing Trout's game film for an episode of "Big Sticks with Ken Griffey Jr." on FOX Sports 1, which will air at some point during the American League Division Series.</description>
+         <content:encoded><![CDATA[Mike Trout and Ken Griffey Jr. sat down for about a half hour at one of the family rooms at O.co Coliseum on Tuesday, reviewing Trout's game film for an episode of "Big Sticks with Ken Griffey Jr." on FOX Sports 1, which will air at some point during the American League Division Series.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/23/2014 10:24 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411525487</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Clock is ticking for Shoemaker, Hamilton</title>
+         <link>http://mlb.mlb.com/news/article/ana/clock-is-ticking-for-shoemaker-hamilton?ymd=20140923&amp;content_id=96081772&amp;vkey=news_ana</link>
+         <pubDate>Tue, 23 Sep 2014 22:22:36 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/clock-is-ticking-for-shoemaker-hamilton?ymd=20140923&amp;content_id=96081772&amp;vkey=news_ana</guid>
+         <description>Injured Angels Matt Shoemaker and Josh Hamilton reported continued progress on Tuesday night in Oakland, but their status for the American League Division Series didn't get any clearer.</description>
+         <content:encoded><![CDATA[Injured Angels Matt Shoemaker and Josh Hamilton reported continued progress on Tuesday night in Oakland, but their status for the American League Division Series didn't get any clearer.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/23/2014 10:22 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411525354</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Wilson gets hook in first as Angels fall to A's</title>
+         <link>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_22_anamlb_oakmlb_1&amp;mode=recap_away&amp;c_id=ana</link>
+         <pubDate>Tue, 23 Sep 2014 03:09:58 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_22_anamlb_oakmlb_1&amp;mode=recap_away&amp;c_id=ana</guid>
+         <description>The Angels lost to the A's, 8-4, on Monday night in Oakland, but game outcomes aren't necessarily important this week. Most prevalent in the American League West champions' minds is likely how badly C.J. Wilson struggled.</description>
+         <content:encoded><![CDATA[The Angels lost to the A's, 8-4, on Monday night in Oakland, but game outcomes aren't necessarily important this week. Most prevalent in the American League West champions' minds is likely how badly C.J. Wilson struggled.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/23/2014 1:30 A.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411450234</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Morris 'flattered' by interview for D-backs' GM opening</title>
+         <link>http://mlb.mlb.com/news/article/ana/angels-exec-hal-morris-flattered-by-interview-for-d-backs-gm-opening?ymd=20140922&amp;content_id=95915096&amp;vkey=news_ana</link>
+         <pubDate>Mon, 22 Sep 2014 22:28:30 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/angels-exec-hal-morris-flattered-by-interview-for-d-backs-gm-opening?ymd=20140922&amp;content_id=95915096&amp;vkey=news_ana</guid>
+         <description>Longtime Reds first baseman Hal Morris, like most retired hitters, still feels most comfortable on the field, "around the batting cage." But he's transitioned into a front-office role, currently finishing his third season as the Angels' director of pro scouting and recently being a candidate to be the D-backs' new general manager.</description>
+         <content:encoded><![CDATA[Longtime Reds first baseman Hal Morris, like most retired hitters, still feels most comfortable on the field, "around the batting cage." But he's transitioned into a front-office role, currently finishing his third season as the Angels' director of pro scouting and recently being a candidate to be the D-backs' new general manager.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/22/2014 10:28 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411439308</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Pujols out at first base as call is overturned</title>
+         <link>http://mlb.mlb.com/news/article/ana/los-angeles-angels-albert-pujols-out-at-first-base-as-call-is-overturned?ymd=20140921&amp;content_id=95778914&amp;vkey=news_ana</link>
+         <pubDate>Sun, 21 Sep 2014 19:22:07 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/los-angeles-angels-albert-pujols-out-at-first-base-as-call-is-overturned?ymd=20140921&amp;content_id=95778914&amp;vkey=news_ana</guid>
+         <description>The Rangers won a big challenge in the bottom of the eighth inning of their 2-1 win against the Angels on Sunday.</description>
+         <content:encoded><![CDATA[The Rangers won a big challenge in the bottom of the eighth inning of their 2-1 win against the Angels on Sunday.]]></content:encoded>
+         <dc:creator>T.R. Sullivan</dc:creator>
+         <mlb:team id="108" teamcode="tex"/>
+         <mlb:display-date>9/21/2014 7:22 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411341724</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Late homer by Rangers sinks Angels in home finale</title>
+         <link>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_21_texmlb_anamlb_1&amp;mode=recap_home&amp;c_id=ana</link>
+         <pubDate>Sun, 21 Sep 2014 21:09:33 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_21_texmlb_anamlb_1&amp;mode=recap_home&amp;c_id=ana</guid>
+         <description>Ryan Rua's ninth-inning solo home run off Huston Street lifted the Rangers to a 2-1 win on Sunday afternoon at Angel Stadium.</description>
+         <content:encoded><![CDATA[Ryan Rua's ninth-inning solo home run off Huston Street lifted the Rangers to a 2-1 win on Sunday afternoon at Angel Stadium.]]></content:encoded>
+         <dc:creator>Matthew DeFranks</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/21/2014 7:05 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411340753</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Angels' postseason roster far from set</title>
+         <link>http://mlb.mlb.com/news/article/ana/los-angeles-angels-postseason-roster-far-from-set?ymd=20140921&amp;content_id=95727920&amp;vkey=news_ana</link>
+         <pubDate>Sun, 21 Sep 2014 15:29:11 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/los-angeles-angels-postseason-roster-far-from-set?ymd=20140921&amp;content_id=95727920&amp;vkey=news_ana</guid>
+         <description>The Angels don't have any high-stress games remaining this season, but that doesn't mean some of the players don't have something to prove.</description>
+         <content:encoded><![CDATA[The Angels don't have any high-stress games remaining this season, but that doesn't mean some of the players don't have something to prove.]]></content:encoded>
+         <dc:creator>Matthew DeFranks</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/21/2014 3:28 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411327722</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Halos get past Rangers on strength of HRs, Weaver</title>
+         <link>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_20_texmlb_anamlb_1&amp;mode=recap_home&amp;c_id=ana</link>
+         <pubDate>Sun, 21 Sep 2014 01:36:08 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_20_texmlb_anamlb_1&amp;mode=recap_home&amp;c_id=ana</guid>
+         <description>Mike Trout, Albert Pujols and David Freese each homered as the Angels snapped a brief two-game losing streak with an 8-5 win over Texas on Saturday night at Angel Stadium. Jered Weaver earned the win in a quality start of seven-plus innings pitched to become the AL's first 18-game winner.</description>
+         <content:encoded><![CDATA[Mike Trout, Albert Pujols and David Freese each homered as the Angels snapped a brief two-game losing streak with an 8-5 win over Texas on Saturday night at Angel Stadium. Jered Weaver earned the win in a quality start of seven-plus innings pitched to become the AL's first 18-game winner.]]></content:encoded>
+         <dc:creator>Matthew DeFranks</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/20/2014 2:08 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411236493</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Santiago struggles, can't halt Rangers' streak</title>
+         <link>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_19_texmlb_anamlb_1&amp;mode=recap_home&amp;c_id=ana</link>
+         <pubDate>Sat, 20 Sep 2014 03:00:34 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_19_texmlb_anamlb_1&amp;mode=recap_home&amp;c_id=ana</guid>
+         <description>Hector Santiago struggled for the second straight start and his offense struggled to solve Lisalverto Bonilla as the Angels lost, 12-3, to the Rangers on Friday night at Angel Stadium.</description>
+         <content:encoded><![CDATA[Hector Santiago struggled for the second straight start and his offense struggled to solve Lisalverto Bonilla as the Angels lost, 12-3, to the Rangers on Friday night at Angel Stadium.]]></content:encoded>
+         <dc:creator>Matthew DeFranks</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/20/2014 1:29 A.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411190945</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Three million in attendance surpassed for 12th straight season</title>
+         <link>http://mlb.mlb.com/news/article/ana/los-angeles-angels-surpass-3-million-in-attendance-for-12th-straight-season?ymd=20140919&amp;content_id=95483218&amp;vkey=news_ana</link>
+         <pubDate>Fri, 19 Sep 2014 21:09:42 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/los-angeles-angels-surpass-3-million-in-attendance-for-12th-straight-season?ymd=20140919&amp;content_id=95483218&amp;vkey=news_ana</guid>
+         <description>The Angels surpassed 3 million in attendance for the season on Friday night for the 12th consecutive season -- a feat matched only by the Yankees.</description>
+         <content:encoded><![CDATA[The Angels surpassed 3 million in attendance for the season on Friday night for the 12th consecutive season -- a feat matched only by the Yankees.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/19/2014 9:09 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411175381</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Three-man rotation being considered for ALDS</title>
+         <link>http://mlb.mlb.com/news/article/ana/los-angeles-angels-consider-going-with-three-man-rotation-for-alds?ymd=20140919&amp;content_id=95483210&amp;vkey=news_ana</link>
+         <pubDate>Fri, 19 Sep 2014 21:08:42 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/los-angeles-angels-consider-going-with-three-man-rotation-for-alds?ymd=20140919&amp;content_id=95483210&amp;vkey=news_ana</guid>
+         <description>For the first time on Thursday, the Angels' coaching staff went over their potential 25-man roster for the five-game American League Division Series that kicks off from Angel Stadium in a couple of weeks.</description>
+         <content:encoded><![CDATA[For the first time on Thursday, the Angels' coaching staff went over their potential 25-man roster for the five-game American League Division Series that kicks off from Angel Stadium in a couple of weeks.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/19/2014 9:08 P.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411175321</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Angels motivated to win for injured teammate Richards</title>
+         <link>http://mlb.mlb.com/news/article/ana/angels-motivated-to-win-for-injured-teammate-garrett-richards?ymd=20140919&amp;content_id=95408624&amp;vkey=news_ana</link>
+         <pubDate>Fri, 19 Sep 2014 11:56:52 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/angels-motivated-to-win-for-injured-teammate-garrett-richards?ymd=20140919&amp;content_id=95408624&amp;vkey=news_ana</guid>
+         <description>Some pundits thought Garrett Richards' season-ending knee injury would bury the Angels. Instead, it brought them closer together.</description>
+         <content:encoded><![CDATA[Some pundits thought Garrett Richards' season-ending knee injury would bury the Angels. Instead, it brought them closer together.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/19/2014 10:00 A.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411135200</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>LeBlanc, reserves edged out by Felix, Mariners</title>
+         <link>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_18_seamlb_anamlb_1&amp;mode=recap_home&amp;c_id=ana</link>
+         <pubDate>Fri, 19 Sep 2014 03:04:00 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_18_seamlb_anamlb_1&amp;mode=recap_home&amp;c_id=ana</guid>
+         <description>The Wild Card-contending Mariners and their ace were supposed to steamroll the Angels' second-stringers and their replacement journeyman starting pitcher. Instead, Wade LeBlanc held his own against Felix Hernandez before Seattle won a battle of the bullpens, 3-1, at Angel Stadium.</description>
+         <content:encoded><![CDATA[The Wild Card-contending Mariners and their ace were supposed to steamroll the Angels' second-stringers and their replacement journeyman starting pitcher. Instead, Wade LeBlanc held his own against Felix Hernandez before Seattle won a battle of the bullpens, 3-1, at Angel Stadium.]]></content:encoded>
+         <dc:creator>Matthew DeFranks</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/19/2014 1:42 A.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411105368</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Angels ride determination back to the top</title>
+         <link>http://mlb.mlb.com/news/article/ana/richard-justice-angels-ride-determination-back-to-al-west-title?ymd=20140918&amp;content_id=95247076&amp;vkey=news_ana</link>
+         <pubDate>Thu, 18 Sep 2014 03:19:38 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/richard-justice-angels-ride-determination-back-to-al-west-title?ymd=20140918&amp;content_id=95247076&amp;vkey=news_ana</guid>
+         <description>This was an American League West title built on perseverance and resilience. Oh sure, you hear every division champion say this kind of stuff. The only thing is, these Angels walked the walk.</description>
+         <content:encoded><![CDATA[This was an American League West title built on perseverance and resilience. Oh sure, you hear every division champion say this kind of stuff. The only thing is, these Angels walked the walk.]]></content:encoded>
+         <dc:creator>Richard Justice</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/18/2014 3:19 A.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411024780</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Wilson finds form for Angels at just right time</title>
+         <link>http://mlb.mlb.com/news/article/ana/cj-wilson-finds-form-for-angels-at-just-right-time?ymd=20140918&amp;content_id=95244420&amp;vkey=news_ana</link>
+         <pubDate>Thu, 18 Sep 2014 04:03:20 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/cj-wilson-finds-form-for-angels-at-just-right-time?ymd=20140918&amp;content_id=95244420&amp;vkey=news_ana</guid>
+         <description>The Angels officially clinched the AL West title late Wednesday night, but that became inevitable long ago. The most encouraging part was how they did it -- with C.J. Wilson dominating for the first time in a long time.</description>
+         <content:encoded><![CDATA[The Angels officially clinched the AL West title late Wednesday night, but that became inevitable long ago. The most encouraging part was how they did it -- with C.J. Wilson dominating for the first time in a long time.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/18/2014 2:09 A.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411020580</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Angels have pedigree to go all the way</title>
+         <link>http://mlb.mlb.com/news/article/ana/angels-have-pedigree-to-go-all-the-way?ymd=20140918&amp;content_id=95238360&amp;vkey=news_ana</link>
+         <pubDate>Thu, 18 Sep 2014 01:58:57 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/news/article/ana/angels-have-pedigree-to-go-all-the-way?ymd=20140918&amp;content_id=95238360&amp;vkey=news_ana</guid>
+         <description>Teams have continually overcome rotation shortcomings to win it all, and there are so many reasons to feel good about the 2014 Angels as they march toward October. Here are five reasons they can win the World Series.</description>
+         <content:encoded><![CDATA[Teams have continually overcome rotation shortcomings to win it all, and there are so many reasons to feel good about the 2014 Angels as they march toward October. Here are five reasons they can win the World Series.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/18/2014 1:19 A.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411017593</mlb:display-date-epoch>
+      </item>
+      <item>
+         <title>Back on top: Angels reclaim AL West title</title>
+         <link>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_17_seamlb_anamlb_1&amp;mode=recap_home&amp;c_id=ana</link>
+         <pubDate>Thu, 18 Sep 2014 04:08:38 EDT
+	</pubDate>
+         <guid>http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_09_17_seamlb_anamlb_1&amp;mode=recap_home&amp;c_id=ana</guid>
+         <description>After a four-year playoff drought, the Angels reclaimed the title they held for the majority of the 2000s on Wednesday night, first by beating the Mariners, 5-0, and then by watching as the A's lose to the Rangers, 6-1, in Oakland.</description>
+         <content:encoded><![CDATA[After a four-year playoff drought, the Angels reclaimed the title they held for the majority of the 2000s on Wednesday night, first by beating the Mariners, 5-0, and then by watching as the A's lose to the Rangers, 6-1, in Oakland.]]></content:encoded>
+         <dc:creator>Alden Gonzalez</dc:creator>
+         <mlb:team id="108" teamcode="ana"/>
+         <mlb:display-date>9/18/2014 12:47 A.M.</mlb:display-date>
+         <mlb:display-date-epoch>1411015669</mlb:display-date-epoch>
+      </item>
+   </channel>
+</rss>
